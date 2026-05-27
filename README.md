@@ -26,7 +26,7 @@ I'm **Long** — a Computer Science student at **Ho Chi Minh University of Techn
 - 🎓 Studying at **HCMUT — Ho Chi Minh University of Technology**
 - 🤖 Focused on **AI Engineering** with a strong **Software Development** foundation
 - 🌱 Currently exploring **Machine Learning**, **Deep Learning** & **System Design**
-- 🗣️ Languages: **Vietnamese** (Native), **English** (IELTS), **Japanese** (N3)
+- 🗣️ Languages: **Vietnamese** (Native), **English** (IELTS), **Japanese** (JLPT)
 - 📫 Reach me at: **bhlong2706@gmail.com**
 
 
