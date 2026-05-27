@@ -114,23 +114,6 @@ I'm **Long** — a Computer Science student at **Ho Chi Minh University of Techn
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huynhlong2706&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huynhlong2706&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhlong2706&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
