@@ -151,6 +151,6 @@ I'm **Long** — a Computer Science student at **Ho Chi Minh University of Techn
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=8B949E&center=true&vCenter=true&width=600&lines=Open+to+collaborations,+discussions,+or+just+a+good+chat;⭐+If+you+find+my+work+interesting,+feel+free+to+star!⭐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=8B949E&center=true&vCenter=true&width=600&lines=Open+to+collaborations%2C+discussions%2C+or+just+a+good+chat;%E2%AD%90+If+you+find+my+work+interesting%2C+feel+free+to+star%21+%E2%AD%90" alt="Typing SVG" />
 </div>
 
